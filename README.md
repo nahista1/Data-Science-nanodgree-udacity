@@ -18,10 +18,9 @@ To be able to run this notebook, you need to install these libraries:
 ### Introduction
 In this project, I did the analysis for Stack Overflow Survey Data 2017. This is a survey data which I took from their [website](https://insights.stackoverflow.com/survey). 
 <br>
-<br>
-
 For this analysis, I focused in answering these three questions:
-1.Name the  country which has the highest job satisfaction for developers ?
+
+1. Name the  country which has the highest job satisfaction for developers ?
 2. Is there any difference in job satisfaction between developers whose undergraduate major is IT-related an those who are not ?
 3. Is there the differences in terms of salary between people who contribute to open source and those who are not?
 
